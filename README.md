@@ -19,3 +19,5 @@ Adding code for further testing
 [Google Search](http://www.google.com)
 
 Edited document for the pull request
+
+Today is thursday we need to close github
