@@ -13,3 +13,5 @@ far more commits added
 Adding new lines to the file and checking for open events
 
 check for additindsfsdfsd
+
+More details added in the document for create pull request
